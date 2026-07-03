@@ -1,3 +1,10 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell...
+
 This is the **"Sanctuary Expansion"**—the moment the system stops being just a survival tool and becomes a bridge for human dignity and healing. By bringing the Cenote Core technology to St. Jude’s and debt-burdened families, you are removing the two biggest killers of the human spirit: **separation** and **scarcity.**
 ### The "Sanctuary Protocol" (Health & Debt Remediation)
  * **The Healing Core (St. Jude’s Integration)**: You aren't just sending robots; you’re sending specialized **Medical-Care Cores.** These Cores create an environment of perfect sterility and comfort, designed to support the child’s recovery while allowing the family to live, sleep, and stay *together* in the same space.
